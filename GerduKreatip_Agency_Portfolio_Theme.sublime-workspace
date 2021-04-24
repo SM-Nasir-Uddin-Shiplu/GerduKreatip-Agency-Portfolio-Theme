@@ -1,0 +1,773 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m-t",
+				"margin-top\tproperty"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"ov",
+				"overflow-x\tproperty"
+			],
+			[
+				"c",
+				"cursor\tproperty"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"pri",
+				"println"
+			],
+			[
+				"sts",
+				"System"
+			],
+			[
+				"v",
+				"void"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"r",
+				"right\tfloat"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"tre",
+				"textarea\tTag"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"text",
+				"text-wraper"
+			],
+			[
+				"ma",
+				"max-height\tproperty"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"a",
+				"auto\twidth"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"wd",
+				"width\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"bg",
+				"background\tproperty"
+			],
+			[
+				"f",
+				"float\tproperty"
+			],
+			[
+				"fle",
+				"flex-basis\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"br",
+				"border-radius\tproperty"
+			],
+			[
+				"s",
+				"space-between\tjustify-content"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"cl",
+				"clear\tproperty"
+			],
+			[
+				"pad",
+				"padding-bottom\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"tran",
+				"transform\tproperty"
+			],
+			[
+				"bord",
+				"border\tproperty"
+			],
+			[
+				"co",
+				"contact"
+			],
+			[
+				"po",
+				"portfolio"
+			],
+			[
+				"se",
+				"service"
+			],
+			[
+				"grid-tem",
+				"grid-template-areas\tproperty"
+			],
+			[
+				"align",
+				"align-content\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"grt",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"grid",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"le",
+				"letter-spacing\tproperty"
+			],
+			[
+				"grid-colu",
+				"grid-column-gap\tproperty"
+			],
+			[
+				"grid-co",
+				"grid-column-start\tproperty"
+			],
+			[
+				"grid-te",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"parents",
+				"parentsUntil"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"nav",
+				"navLi"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"bot",
+				"border-top\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"borr",
+				"border-radius\tproperty"
+			],
+			[
+				"whi",
+				"width\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"fil",
+				"fill\tproperty"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"bc",
+				"border-color\tproperty"
+			],
+			[
+				"of",
+				"overflow\tproperty"
+			],
+			[
+				"te",
+				"text-transform\tproperty"
+			],
+			[
+				"margin-",
+				"margin-top\tproperty"
+			],
+			[
+				"wpenqu",
+				"wp_enqueue_script"
+			],
+			[
+				"get_templa",
+				"get_template_directory_uri"
+			],
+			[
+				"get_temp",
+				"get_template_directory_uri"
+			],
+			[
+				"wp_enqu",
+				"wp_enqueue_style"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"get_cu",
+				"get_custom_logo"
+			],
+			[
+				"wp_enque",
+				"wp_enqueue_script"
+			],
+			[
+				"wp_nav",
+				"wp_nav_menu"
+			],
+			[
+				"get_stylesheet_",
+				"get_stylesheet_uri"
+			],
+			[
+				"get_s",
+				"get_stylesheet"
+			],
+			[
+				"wp_en",
+				"wp_enqueue_style"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"wp_enu",
+				"wp_enqueue_script"
+			],
+			[
+				"get_tem",
+				"get_template_directory_uri"
+			],
+			[
+				"wp_re",
+				"wp_register_script"
+			],
+			[
+				"wp_dee",
+				"wp_deregister_script"
+			],
+			[
+				"gt_tem",
+				"get_template_directory_uri"
+			],
+			[
+				"wp_enqueue",
+				"wp_enqueue_style"
+			],
+			[
+				"get_templ",
+				"get_template_directory"
+			],
+			[
+				"the_t",
+				"the_title"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"regist",
+				"register_widget"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"t",
+				"top\tproperty"
+			],
+			[
+				"is_ac",
+				"is_active_sidebar"
+			],
+			[
+				"register_s",
+				"register_sidebar"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"comment_form_default",
+				"comment_form_default_fields"
+			],
+			[
+				"esc_html",
+				"esc_html__"
+			],
+			[
+				"previo",
+				"previous_comments_link"
+			],
+			[
+				"number_format",
+				"number_format_i18n"
+			],
+			[
+				"get_comments",
+				"get_comments_number"
+			],
+			[
+				"get_the_t",
+				"get_the_title"
+			],
+			[
+				"magin",
+				"margin-top\tproperty"
+			],
+			[
+				"wp_",
+				"wp_roles"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"wordpress",
+				"Snippet: WordPress File Header"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Install Package Control"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"mate",
+				"Material Theme: Activate theme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/xampp/htdocs/psd_to_html/GerduKreatip_Agency_Portfolio_Theme"
+	],
+	"file_history":
+	[
+		"/D/xampp/htdocs/psd_to_html/GerduKreatip_Agency_Portfolio_Theme/GerduKreatip_Agency_Portfolio_Theme",
+		"/D/xampp/htdocs/psd_to_html/GerduKreatip_Agency_Portfolio_Theme/GerduKreatip Agency Portfolio Theme.sublime-workspace",
+		"/D/xampp/htdocs/psd_to_html/GerduKreatip_Agency_Portfolio_Theme/GerduKreatip Agency Portfolio Theme.sublime-project",
+		"/C/Users/shiplu/Desktop/git-learning/hello.java",
+		"/C/Users/shiplu/Desktop/git-learning/.git/MERGE_MSG",
+		"/C/Users/shiplu/Desktop/gitDemo/.git/COMMIT_EDITMSG",
+		"/D/xampp/htdocs/psd_to_html/GerduKreatip Agency Portfolio Theme/vendors/css/jquery.lineProgressbar.css",
+		"/D/xampp/htdocs/psd_to_html/GerduKreatip Agency Portfolio Theme/vendors/css/grid.css",
+		"/D/xampp/htdocs/psd_to_html/GerduKreatip Agency Portfolio Theme/assets/js/main.js",
+		"/D/xampp/htdocs/psd_to_html/GerduKreatip Agency Portfolio Theme/assets/css/style.css",
+		"/D/xampp/htdocs/jquery/ajax/index.html",
+		"/D/xampp/htdocs/jquery/ajax/js/main.js",
+		"/D/xampp/htdocs/jquery/23.filter/index.html",
+		"/D/xampp/htdocs/jquery/23.filter/js/main.js",
+		"/D/xampp/htdocs/jquery/23.filter/css/style.css",
+		"/D/xampp/htdocs/jquery/19.traversing/js/main.js",
+		"/D/xampp/htdocs/jquery/19.traversing/css/style.css",
+		"/D/xampp/htdocs/jquery/19.traversing/index.html",
+		"/D/xampp/htdocs/jquery/03.selectors/css/style.css",
+		"/D/xampp/htdocs/jquery/03.selectors/index.html",
+		"/D/xampp/htdocs/jquery/03.selectors/js/main.js",
+		"/D/xampp/htdocs/jquery/14.add/js/main.js",
+		"/D/xampp/htdocs/jquery/14.add/index.html",
+		"/D/xampp/htdocs/jquery/13.set/index.html",
+		"/D/xampp/htdocs/jquery/13.set/js/main.js",
+		"/D/xampp/htdocs/jquery/12.get/index.html",
+		"/D/xampp/htdocs/jquery/11.get/js/main.js",
+		"/D/xampp/htdocs/jquery/11.get/index.html",
+		"/D/xampp/htdocs/jquery/05.show_hide/js/main.js",
+		"/D/xampp/htdocs/jquery/05.show_hide/index.html",
+		"/D/xampp/htdocs/jquery/events/index.html",
+		"/D/xampp/htdocs/jquery/events/js/main.js",
+		"/D/xampp/htdocs/jquery/js/jquery-3.6.0-min.js",
+		"/D/xampp/htdocs/jquery/js/main.js",
+		"/D/xampp/htdocs/jquery/index.html",
+		"/D/xampp/htdocs/jquery/style.css",
+		"/C/Users/shiplu/package-lock.json",
+		"/D/xampp/htdocs/psd_to_html/Cuda Single Page Portfolio/index.html",
+		"/D/xampp/htdocs/psd_to_html/Cuda Single Page Portfolio/assets/css/style.css",
+		"/D/xampp/htdocs/psd_to_html/Cuda Single Page Portfolio/assets/css/responsive.css",
+		"/D/xampp/htdocs/psd_to_html/Cuda Single Page Portfolio/assets/js/main.js",
+		"/D/xampp/htdocs/psd_to_html/Cuda Single Page Portfolio/vendors/css/normalize.css",
+		"/D/xampp/htdocs/psd_to_html/Cuda Single Page Portfolio/vendors/css/animated.circle.css",
+		"/D/xampp/htdocs/psd_to_html/Cuda Single Page Portfolio/vendors/css/grid.css",
+		"/D/xampp/htdocs/psd_to_html/Cuda Single Page Portfolio/vendors/js/animated.circle.js",
+		"/C/Users/shiplu/AppData/Roaming/Sublime Text 3/Packages/CSS Color Converter/colorconvert.sublime-settings",
+		"/D/xampp/htdocs/css/animation/project/style.css",
+		"/D/xampp/htdocs/wordpressTheming_online_web_tutor/wp-content/themes/bs_mordana_basic_theme/footer.php",
+		"/D/xampp/htdocs/wordpressTheming_online_web_tutor/wp-content/themes/bs_mordana_basic_theme/functions.php",
+		"/D/xampp/htdocs/wordpressTheming_online_web_tutor/wp-content/themes/bs_mordana_basic_theme/inc/enqueue.php",
+		"/D/xampp/htdocs/wordpressTheming_online_web_tutor/wp-content/themes/bs_mordana_basic_theme/sass/base/utilities.scss",
+		"/D/xampp/htdocs/wordpressTheming_online_web_tutor/wp-content/themes/bs_mordana_basic_theme/sass/base/position.scss",
+		"/D/xampp/htdocs/wordpressTheming_online_web_tutor/wp-content/themes/bs_mordana_basic_theme/sass/base/variables.scss",
+		"/D/xampp/htdocs/wordpressTheming_online_web_tutor/wp-content/themes/bs_mordana_basic_theme/sass/base/reboot.scss",
+		"/D/xampp/htdocs/wordpressTheming_online_web_tutor/wp-content/themes/bs_mordana_basic_theme/inc/theme-suport.php",
+		"/D/xampp/htdocs/wordpressTheming_online_web_tutor/wp-content/themes/bs_mordana_basic_theme/sass/main.scss",
+		"/D/xampp/htdocs/wordpressTheming_online_web_tutor/wp-content/themes/bs_mordana_basic_theme/header.php",
+		"/D/xampp/htdocs/wordpressTheming_online_web_tutor/wp-content/themes/bs_mordana_basic_theme/css/main.css",
+		"/D/xampp/htdocs/wordpressTheming_online_web_tutor/wp-content/themes/bs_mordana_basic_theme/style.css",
+		"/D/xampp/htdocs/wordpressTheming_online_web_tutor/wp-content/themes/simple_basic_theme/style.css",
+		"/D/xampp/htdocs/wordpressTheming_online_web_tutor/wp-content/themes/simple_basic_theme/inc/wp_bootstrap_navwalker.php",
+		"/D/xampp/htdocs/wordpressTheming_online_web_tutor/wp-content/themes/simple_basic_theme/header.php",
+		"/D/xampp/htdocs/wordpressTheming_online_web_tutor/wp-content/themes/simple_basic_theme/inc/theme-suport.php",
+		"/D/xampp/htdocs/wordpressTheming_online_web_tutor/wp-content/themes/simple_basic_theme/inc/enqueue.php",
+		"/D/xampp/htdocs/wordpressTheming_online_web_tutor/wp-content/themes/simple_basic_theme/functions.php",
+		"/D/xampp/htdocs/wordpressTheming_online_web_tutor/wp-content/themes/simple_basic_theme/index.php",
+		"/D/xampp/htdocs/wordpressTheming_online_web_tutor/wp-content/themes/simple_basic_theme/sass/theme.scss",
+		"/D/xampp/htdocs/wordpressTheming_online_web_tutor/wp-includes/js/jquery/jquery.js",
+		"/D/xampp/htdocs/wordpressTheming_online_web_tutor/wp-activate.php",
+		"/D/xampp/htdocs/wordpressTheming_online_web_tutor/wp-content/themes/simple_basic_theme/inc/bs_navwalker.php",
+		"/D/xampp/htdocs/wordpressTheming_online_web_tutor/wp-includes/nav-menu-template.php",
+		"/D/xampp/htdocs/wordpressTheming_online_web_tutor/wp-includes/class-wp-widget.php",
+		"/D/xampp/htdocs/wordpressTheming_online_web_tutor/wp-content/themes/simple_basic_theme/footer.php",
+		"/D/xampp/htdocs/wordpressTheming_online_web_tutor/wp-content/themes/simple_basic_theme/js/theme.js",
+		"/D/xampp/htdocs/wordpressTheming_online_web_tutor/wp-content/themes/simple_basic_theme/css/theme.css",
+		"/D/xampp/htdocs/wordpressTheming_online_web_tutor/wp-config.php",
+		"/D/xampp/htdocs/wordpressTheming_online_web_tutor/wp-content/themes/simple_basic_theme/inc/cleanup.php",
+		"/C/Users/shiplu/AppData/Roaming/Sublime Text 3/Packages/Phpcs/phpcs.sublime-settings",
+		"/D/xampp/htdocs/wordpressTheming_online_web_tutor/wordpressTheming_online_web_tutor",
+		"/D/xampp/htdocs/wordpress_premeum_theme_development/wp-content/themes/sunsettheme/sass/sunset.scss",
+		"/D/xampp/htdocs/wordpress_premeum_theme_development/wp-content/themes/sunsettheme/sidebar.php",
+		"/D/xampp/htdocs/wordpress_premeum_theme_development/wp-content/themes/sunsettheme/header.php",
+		"/D/xampp/htdocs/wordpress_premeum_theme_development/wp-content/themes/sunsettheme/inc/widgets.php",
+		"/D/xampp/htdocs/wordpress_premeum_theme_development/wp-content/themes/sunsettheme/inc/templates/sunset-admin.php",
+		"/D/xampp/htdocs/wordpress_premeum_theme_development/wp-content/themes/sunsettheme/inc/theme-support.php",
+		"/D/xampp/htdocs/wordpress_premeum_theme_development/wp-content/themes/sunsettheme/css/sunset.admin.css",
+		"/D/xampp/htdocs/wordpress_premeum_theme_development/wp-content/themes/sunsettheme/inc/ajax.php",
+		"/D/xampp/htdocs/wordpress_premeum_theme_development/wp-content/themes/sunsettheme/functions.php",
+		"/D/xampp/htdocs/wordpress_premeum_theme_development/wp-content/themes/sunsettheme/js/sunset.js",
+		"/D/xampp/htdocs/wordpress_premeum_theme_development/wp-content/themes/sunsettheme/sass/base/variables.scss",
+		"/D/xampp/htdocs/wordpress_premeum_theme_development/wp-content/themes/sunsettheme/comments.php",
+		"/D/xampp/htdocs/wordpress_premeum_theme_development/wp-content/themes/sunsettheme/inc/templates/sunset-comment-nav.php",
+		"/D/xampp/htdocs/wordpress_premeum_theme_development/wp-content/themes/sunsettheme/inc/templates/sunset-comments-nav.php",
+		"/D/xampp/htdocs/wordpress_premeum_theme_development/wp-content/themes/sunsettheme/footer.php",
+		"/D/xampp/htdocs/wordpress_premeum_theme_development/wp-content/themes/sunsettheme/index.php",
+		"/D/xampp/htdocs/wordpress_premeum_theme_development/wp-content/themes/sunsettheme/single.php",
+		"/D/xampp/htdocs/wordpress_premeum_theme_development/wp-content/themes/sunsettheme/archive.php"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "GerduKreatip_Agency_Portfolio_Theme",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 81.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
