@@ -14,16 +14,10 @@
 	}
 	
 	.grid-container {
-		/*-ms-grid-columns: (25rem)[3];
-		grid-template-columns: repeat(3, 25rem);
-		-ms-grid-rows: (20rem)[6];
-		grid-template-rows: repeat(6, 20rem);*/
-
 		-ms-grid-columns: (16.5rem)[6];
 		grid-template-columns: repeat(6, 16.5rem);
 		-ms-grid-rows: (16.5rem)[3];
-		grid-template-rows: repeat(3, 16.5rem);
-		
+		grid-template-rows: repeat(3, 16.5rem);		
 	}
 
 	.logo-container span {
@@ -46,11 +40,6 @@
 
 @media screen and  (max-width: 895px){
 	.grid-container {
-		/*-ms-grid-columns: (18rem)[3];
-		grid-template-columns: repeat(3, 18rem);
-		-ms-grid-rows: (16rem)[6];
-		grid-template-rows: repeat(6, 16rem);*/
-
 		-ms-grid-columns: (17rem)[3];
 		grid-template-columns: repeat(3, 17rem);
 		-ms-grid-rows: (17rem)[6];
