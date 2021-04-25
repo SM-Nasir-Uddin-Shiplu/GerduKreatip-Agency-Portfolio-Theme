@@ -548,10 +548,18 @@
 	},
 	"expanded_folders":
 	[
-		"/D/xampp/htdocs/psd_to_html/GerduKreatip_Agency_Portfolio_Theme"
+		"/D/xampp/htdocs/psd_to_html/GerduKreatip_Agency_Portfolio_Theme",
+		"/D/xampp/htdocs/psd_to_html/GerduKreatip_Agency_Portfolio_Theme/assets",
+		"/D/xampp/htdocs/psd_to_html/GerduKreatip_Agency_Portfolio_Theme/assets/css",
+		"/D/xampp/htdocs/psd_to_html/GerduKreatip_Agency_Portfolio_Theme/vendors",
+		"/D/xampp/htdocs/psd_to_html/GerduKreatip_Agency_Portfolio_Theme/vendors/js"
 	],
 	"file_history":
 	[
+		"/D/xampp/htdocs/psd_to_html/GerduKreatip_Agency_Portfolio_Theme/index.html",
+		"/D/xampp/htdocs/psd_to_html/GerduKreatip_Agency_Portfolio_Theme/assets/js/main.js",
+		"/D/xampp/htdocs/psd_to_html/GerduKreatip_Agency_Portfolio_Theme/assets/css/responsive.css",
+		"/D/xampp/htdocs/psd_to_html/GerduKreatip_Agency_Portfolio_Theme/assets/css/style.css",
 		"/D/xampp/htdocs/psd_to_html/GerduKreatip_Agency_Portfolio_Theme/GerduKreatip_Agency_Portfolio_Theme",
 		"/D/xampp/htdocs/psd_to_html/GerduKreatip_Agency_Portfolio_Theme/GerduKreatip Agency Portfolio Theme.sublime-workspace",
 		"/D/xampp/htdocs/psd_to_html/GerduKreatip_Agency_Portfolio_Theme/GerduKreatip Agency Portfolio Theme.sublime-project",
@@ -765,7 +773,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 81.0,
+	"side_bar_width": 50.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
