@@ -4,8 +4,7 @@ $(document).ready(function(){
 	var currentSecName = "";
 	var vh = $(window).height();
 	
-	viewportHeight(vh);
-	
+	viewportHeight(vh);	
 
 	/*STICKY MENU AND SECTION SCROLL(WAYPOINTS)*/
 	$('.waypoints').waypoint(function(direction){
